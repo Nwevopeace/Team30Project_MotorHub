@@ -20,6 +20,10 @@ body main {
     height: 100%;
   }
 
+.auth {
+    display: flex;
+  }
+
 .account {
 
     display: flex;
