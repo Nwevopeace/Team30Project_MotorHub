@@ -75,7 +75,7 @@ document.addEventListener('alpine:init',()=>{
       {
         brand: "Kia",
         title: "Kia Niro",
-        imgUrl: "./images/Kia1.png",
+        imgUrl: "./images/Kia2.png",
         price: "30,000,000 Naira",
         hotDeal: true,
         used: false,
