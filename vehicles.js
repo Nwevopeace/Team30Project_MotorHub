@@ -83,7 +83,7 @@ document.addEventListener('alpine:init',()=>{
       {
         brand: "Kia",
         title: "Kia Xceed <br>2019-Present",
-        imgUrl: "./images/kia2.png",
+        imgUrl: "./images/kia1.png",
         price: "37,000,000 Naira",
         hotDeal: false,
         used: true,
