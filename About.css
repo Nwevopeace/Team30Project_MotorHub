@@ -12,6 +12,43 @@ body {
     background-color: white;
 }
 
+.row {
+    width: 100%;
+    text-align: center;
+    background: var(--blue-900, #004475);
+}
+
+.navbar {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+
+.navbar ul {
+    display: flex;
+    height: 56px;
+    padding: 10px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    box-sizing: border-box;
+}
+
+.navbar ul li {
+    list-style: none;
+}
+
+.navbar ul li a {
+    padding: 10px 16px;
+    font-family: Raleway;
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+}
+
+
 .first-header h1 {
     width: 40%;
     font-size: 45px;
